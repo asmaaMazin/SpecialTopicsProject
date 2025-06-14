@@ -1,1 +1,1 @@
-# SpecialTopicsProject
+# Special Topics Project
