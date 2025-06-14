@@ -1,0 +1,9 @@
+ Main libraries include:
+
+pandas         for data loading and manipulation
+
+sklearn        Used for GridSearhc and KNeighborsClassifier and LabelEncoder 
+
+joblib         for saving and loading files
+
+streamlit      for building a web app interface
